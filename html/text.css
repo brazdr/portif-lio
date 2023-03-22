@@ -1,0 +1,32 @@
+h1, h2, h3, h4, h5, h6, h7{
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+
+#container{
+    width: 500px;
+}
+
+n-40{
+    margin: 40px;
+}
+
+* {
+    color: rgb(41, 40, 40);
+    font-size: 22px;
+}
+
+address{
+    font-size: 12px;
+}
+
+div.menu{
+    text-align: center;
+}
+
+h8{
+    text-align: left;
+    color: black;
+    font-size: 35px;
+}
